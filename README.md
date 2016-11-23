@@ -1,3 +1,7 @@
 # Pre Process UCI Text Data
 
-So these are either something that I've borrowed or written during my PhD time that I very often need to get back to. I hope to keep adding other stuff as I re-discover them over time :)
+---
+
+#### 1. UCI preprocessing files are borrowed from the original code for the paper: [A Practical Algorithm for Topic Modeling with Provable Guarantees](http://www.jmlr.org/proceedings/papers/v28/arora13.pdf)
+
+---
